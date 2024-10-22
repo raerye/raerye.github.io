@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raerye.github.io/GIf/sitemap.GIf.gz
